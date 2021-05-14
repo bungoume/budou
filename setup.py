@@ -26,7 +26,7 @@ setup(
     install_requires=[
         'google-api-python-client',
         'oauth2client',
-        'lxml==3.6.1',
+        'lxml==4.6.3',
         'six',
     ],
     scripts=[
